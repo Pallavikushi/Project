@@ -1,0 +1,23 @@
+<div class="top">
+  
+  <p class="align-left">FLIGHT RESERVATION SYSTEM </p>
+  <p class="align-right"> <input type="submit" style="background-color:red;color:white;"  value="LOGOUT"></p>
+
+</div> 
+
+<div class="con">
+
+    <button >WELCOME USER!!!!</button><br><br>
+   <div class ="CENTER">
+     <button type="submit"style="background-color:rgb(33, 122, 240);color:white;">BOOK A FLIGHT</button><br><br>
+     <button type="submit" style="background-color:rgb(33, 122, 240);color:white;">VIEW AVAILABLE FLIGHTS</button><br><br>
+     <button type="submit" style="background-color:rgb(33, 122, 240);color:white;">CANCEL A BOOKING</button><br><br>
+    </div>
+   </div>
+
+<div class="bottom">
+ 
+ <p class="alignl"><a href="https://www.worldairlineawards.com/worlds-top-10-airlines-2019/">RESERVATION SYSTEM 2019</a></p>
+ <p class="alignr"><a href="https://www.worldairlineawards.com/worlds-top-10-airlines-2019/">ABOUT US</a></p>
+
+</div>
